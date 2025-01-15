@@ -3,7 +3,7 @@
 My name is Tarcisio and I'm front-end engineer.
 
  - 💙 In love with JavaScript Typescript
- - 🌱 Currently working with Next.JS w/ Typescript
+ - 🌱 Currently working with Next.JS and Angular.js w/ Typescript
  - 👯 I’m looking to collaborate on projects that make people life's better
  - ⚡ Fun fact: Guitar Player and comics collector 
 
